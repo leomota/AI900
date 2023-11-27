@@ -22,6 +22,12 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - **Semana 3-4:** Fundamental Principles of Machine Learning
   - ...
 
+## Semana 1-2: Fundamentos de IA
+- **Semana 1:**
+  -  Introdução à Inteligência Artificial.
+  -  Conceitos Básicos de IA.
+
+
 ## Exames Práticos
 - [Link para Simulados](https://example.com/practice-exams)
 - Recursos para prática hands-on
