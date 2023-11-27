@@ -45,6 +45,22 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Descrever considerações sobre transparência em uma solução de IA
 - Descrever considerações sobre a responsabilidade em uma solução de IA
 
+### Descrever os princípios fundamentais do aprendizado de máquina no Azure (20 a 25%)
+#### Identificar técnicas comuns de machine learning
+- Identificar cenários de aprendizado de máquina de regressão
+- Identificar cenários de machine learning de classificação
+- Identificar cenários de clustering de machine learning
+- Identificar recursos de técnicas de aprendizado profundo
+
+#### Descrever os principais conceitos de machine learning
+- Identificar recursos e rótulos em um conjunto de dados para machine learning
+- Descrever como conjuntos de dados de treinamento e validação são usados no machine learning
+
+#### Descrever os recursos do Azure Machine Learning
+- Descrever os recursos do machine learning automatizado
+- Descrever dados e serviços de computação para ciência de dados e machine learning
+- Descrever os recursos de gerenciamento e implantação de modelos no Azure Machine Learning
+
 
 
 
