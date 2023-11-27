@@ -15,17 +15,14 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Cursos Online: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [Pluralsight](https://www.pluralsight.com/)
 
 ## Roadmap de Estudo
-- **Semana 1-2:** AI Workloads
-  - Leitura da documentação oficial
-  - Curso online sobre AI Workloads
+- **Semana 1-2:** Fundamentos de AI
+  -  Introdução à Inteligência Artificial.
+  -  Conceitos Básicos de IA.
 
 - **Semana 3-4:** Fundamental Principles of Machine Learning
   - ...
 
-## Semana 1-2: Fundamentos de IA
-- **Semana 1:**
-  -  Introdução à Inteligência Artificial.
-  -  Conceitos Básicos de IA.
+
 
 
 ## Exames Práticos
