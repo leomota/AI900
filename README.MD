@@ -61,8 +61,17 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Descrever dados e serviços de computação para ciência de dados e machine learning
 - Descrever os recursos de gerenciamento e implantação de modelos no Azure Machine Learning
 
+### 💡 Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15 a 20%)
+#### Identificar tipos comuns de solução de pesquisa visual computacional
+- Identificar recursos de soluções de classificação de imagens
+- Identificar recursos de soluções de detecção de objetos
+- Identificar recursos de soluções de reconhecimento óptico de caracteres
+- Identificar os recursos de detecção facial e das soluções de análise facial
 
-
+#### Identificar ferramentas e serviços do Azure para tarefas de pesquisa visual computacional
+- Descrever os recursos do serviço Azure AI Vision
+- Descrever os recursos do serviço de detecção facial da IA do Azure
+- Descrever os recursos do serviço do Azure AI Video Indexer
 
 
 
