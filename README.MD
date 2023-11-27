@@ -71,3 +71,7 @@ o	(15 a 20%)
 
 ## Comunidade
 - Fórum de Discussão: [Link para o Fórum](https://example.com/forum)
+
+## Mostre seu apoio
+
+Dê uma ⭐️ no repositoório deste projeto no GitHub se este conteúdo te ajudou!
