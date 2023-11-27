@@ -26,6 +26,22 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15 a 20%)
 - Descrever os recursos das cargas de trabalho de PLN (processamento de linguagem natural) no Azure (25 a 30%)
 
+#💡Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
+Identificar recursos de cargas de trabalho de IA comuns
+Identificar recursos de cargas de trabalho de detecção de anomalias
+
+Identificar cargas de trabalho de pesquisa visual computacional
+
+Identificar cargas de trabalho de processamento de linguagem natural
+
+Identificar cargas de trabalho de mineração de conhecimento
+
+
+
+
+
+
+
 
 ## Roadmap de Estudo
 - **Semana 1:** Fundamentos de AI
