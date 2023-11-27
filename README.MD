@@ -26,16 +26,58 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15 a 20%)
 - Descrever os recursos das cargas de trabalho de PLN (processamento de linguagem natural) no Azure (25 a 30%)
 
-#### 💡 Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
-- Identificar recursos de cargas de trabalho de IA comuns
+### 💡 Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
+
+#### Identificar recursos de cargas de trabalho de IA comuns
 - Identificar recursos de cargas de trabalho de detecção de anomalias
 - Identificar cargas de trabalho de pesquisa visual computacional
 - Identificar cargas de trabalho de processamento de linguagem natural
 - Identificar cargas de trabalho de mineração de conhecimento
 
 
+#### Identificar os princípios que orientam o uso responsável da IA
+- Descrever considerações sobre imparcialidade em uma solução de IA
+- Descrever considerações sobre confiabilidade e segurança em uma solução de IA
+- Descrever considerações sobre privacidade e segurança em uma solução de IA
+- Descrever considerações sobre inclusão em uma solução de IA
+- Descrever considerações sobre transparência em uma solução de IA
+- Descrever considerações sobre a responsabilidade em uma solução de IA
 
+### 💡 Descrever os princípios fundamentais do machine learning no Azure (25 a 30%)
+#### Identificar tipos comuns de machine learning
+- Identificar cenários de aprendizado de máquina de regressão
+- Identificar cenários de machine learning de classificação
+- Identificar cenários de clustering de machine learning
 
+#### Descrever os principais conceitos de machine learning
+- Identificar recursos e rótulos em um conjunto de dados para machine learning
+- Descrever como conjuntos de dados de treinamento e validação são usados no machine learning
+
+#### Descrever as funcionalidades das ferramentas visuais no Estúdio do Azure Machine Learning
+- Machine Learning automatizado
+- Designer do Azure Machine Learning
+
+#### 💡 Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15 a 20%)
+#### Identificar tipos comuns de solução de pesquisa visual computacional
+- Identificar recursos de soluções de classificação de imagens
+- Identificar recursos de soluções de detecção de objetos
+- Identificar recursos de soluções de reconhecimento óptico de caracteres
+- Identificar os recursos de detecção facial e das soluções de análise facial
+
+#### Identificar ferramentas e serviços do Azure para tarefas de pesquisa visual computacional
+- Identificar funcionalidades do serviço Pesquisa Visual Computacional
+- Identificar funcionalidades do serviço Visão Personalizada
+- Identificar funcionalidades do serviço de Detecção Facial
+- Identificar funcionalidades do serviço Reconhecimento de Formulários
+
+#### 💡 Descrever os recursos das cargas de trabalho de PLN (processamento de linguagem natural) no Azure (25 a 30%)
+#### Identificar recursos de cenários comuns de carga de trabalho de NLP
+- Identificar recursos e usos para extração de frases-chave
+- Identificar recursos e usos para reconhecimento de entidades
+- Identificar recursos e usos para análise de sentimento
+- Identificar recursos e usos para modelagem de idioma
+- Identificar recursos e usos para reconhecimento e síntese de fala
+- Identificar recursos e usos para tradução
 
 
 
