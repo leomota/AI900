@@ -20,8 +20,7 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - [Documentação Oficial da Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 - Cursos Online: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [Pluralsight](https://www.pluralsight.com/)
 
-
-## Habilidades medidas
+## 📝 Habilidades Medidas
 - Descrever as cargas de trabalho e considerações sobre Inteligência Artificial 
 o	(15 a 20%)
 - Descrever os princípios fundamentais do aprendizado de máquina no Azure 
