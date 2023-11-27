@@ -27,26 +27,6 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Descrever os recursos das cargas de trabalho de PLN (Processamento de Linguagem Natural) no Azure (15 a 20%)
 - Descrever os recursos de cargas de trabalho de IA generativa no Azure (15 a 20%)
 
-### 💡 Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
-
-#### Identificar recursos de cargas de trabalho de IA comuns
-- Identificar recursos de cargas de trabalho de detecção de anomalias
-- Identificar cargas de trabalho de pesquisa visual computacional
-- Identificar cargas de trabalho de processamento de linguagem natural
-- Identificar cargas de trabalho de mineração de conhecimento
-
-
-#### Identificar os princípios que orientam o uso responsável da IA
-- Descrever considerações sobre imparcialidade em uma solução de IA
-- Descrever considerações sobre confiabilidade e segurança em uma solução de IA
-- Descrever considerações sobre privacidade e segurança em uma solução de IA
-- Descrever considerações sobre inclusão em uma solução de IA
-- Descrever considerações sobre transparência em uma solução de IA
-- Descrever considerações sobre a responsabilidade em uma solução de IA
-
-
-
-
 ### 💡 Descrever as cargas de trabalho e considerações sobre Inteligência Artificial (15 a 20%)
 #### Identificar recursos de cargas de trabalho de IA comuns
 - Identificar recursos de cargas de trabalho de monitoramento de dados e detecção de anomalias
@@ -58,17 +38,12 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Identificar recursos de cargas de trabalho de IA generativa
 
 #### Identificar os princípios que orientam o uso responsável da IA
-Descrever considerações sobre imparcialidade em uma solução de IA
-
-Descrever considerações sobre confiabilidade e segurança em uma solução de IA
-
-Descrever considerações sobre privacidade e segurança em uma solução de IA
-
-Descrever considerações sobre inclusão em uma solução de IA
-
-Descrever considerações sobre transparência em uma solução de IA
-
-Descrever considerações sobre a responsabilidade em uma solução de IA
+- Descrever considerações sobre imparcialidade em uma solução de IA
+- Descrever considerações sobre confiabilidade e segurança em uma solução de IA
+- Descrever considerações sobre privacidade e segurança em uma solução de IA
+- Descrever considerações sobre inclusão em uma solução de IA
+- Descrever considerações sobre transparência em uma solução de IA
+- Descrever considerações sobre a responsabilidade em uma solução de IA
 
 
 
