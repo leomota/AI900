@@ -22,6 +22,19 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - **Semana 3-4:** Fundamental Principles of Machine Learning
   - ...
 
+- **Semana 2:**
+  -  Aprendizado de Máquina - Conceitos Fundamentais.
+  -  Exemplos Práticos de Aplicações de Aprendizado de Máquina.
+
+## Semana 3-4: Serviços de IA da Azure
+- **Semana 3:**
+  -  Azure Cognitive Services - Visão Geral.
+  -  Hands-on com Azure Cognitive Services.
+
+- **Semana 4:**
+  -  Implementação de Serviços Específicos do Azure Cognitive Services.
+  -  Hands-on com Azure Cognitive Services.
+
 
 
 
