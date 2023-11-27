@@ -1,3 +1,9 @@
+# 📗 Guia de Estudo para o exame Fundamentos do Microsoft Azure (AZ-900)
+
+Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados para ajudar qualquer pessoa que esteja começando uma carreira em computação em nuvem e/ou descobrindo o Azure a se preparar para (e passar) no exame AZ-900.
+
+*Última atualização em 7 de abril de 2023*
+
 # Roadmap de Certificação AI-900
 
 ## Introdução
