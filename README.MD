@@ -19,7 +19,7 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
   -  Introdução à Inteligência Artificial.
   -  Conceitos Básicos de IA.
 
-- **Semana 2:**
+- **Semana 2:** Fundamentos de AI
   -  Aprendizado de Máquina - Conceitos Fundamentais.
   -  Exemplos Práticos de Aplicações de Aprendizado de Máquina.
 
@@ -31,8 +31,16 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
   -  Implementação de Serviços Específicos do Azure Cognitive Services.
   -  Hands-on com Azure Cognitive Services.
 
+- **Semana 5:** Azure Machine Learning
+  -  Azure Machine Learning - Introdução.
+  -  Conceitos Básicos de Desenvolvimento com Azure Machine Learning.
 
+- **Semana 6:** Azure Machine Learning
+  -  Desenvolvimento de Modelos de Machine Learning.
+  -  Avaliação e Melhoria de Modelos em Azure Machine Learning.
 
+- **Semana7:** Revisão e Prática
+  -  Revisão.
 
 ## Exames Práticos
 - [Link para Simulados](https://example.com/practice-exams)
