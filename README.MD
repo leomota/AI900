@@ -21,10 +21,11 @@ Bem-vindo ao roadmap de estudo para a certificação AI-900, que abrange os prin
 - Cursos Online: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [Pluralsight](https://www.pluralsight.com/)
 
 ## 📝 Habilidades Medidas
-- Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
-- Descrever os princípios fundamentais do machine learning no Azure (25 a 30%)
+- Descrever as cargas de trabalho e considerações sobre Inteligência Artificial (15 a 20%)
+- Descrever os princípios fundamentais do aprendizado de máquina no Azure (20 a 25%)
 - Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15 a 20%)
-- Descrever os recursos das cargas de trabalho de PLN (processamento de linguagem natural) no Azure (25 a 30%)
+- Descrever os recursos das cargas de trabalho de PLN (Processamento de Linguagem Natural) no Azure (15 a 20%)
+- Descrever os recursos de cargas de trabalho de IA generativa no Azure (15 a 20%)
 
 ### 💡 Descrever as cargas de trabalho e as considerações sobre Inteligência Artificial (20 a 25%)
 
