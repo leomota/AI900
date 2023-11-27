@@ -66,9 +66,8 @@ o	(15 a 20%)
   -  Revisão.
 
 ## Exames Práticos
-- [Link para Simulados](https://example.com/practice-exams)
+- [Link para Simulados](https://learn.microsoft.com/pt-br/credentials/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26&source=docs)
 - Recursos para prática hands-on
 
 ## Comunidade
 - Fórum de Discussão: [Link para o Fórum](https://example.com/forum)
-- Grupo no LinkedIn: [Link para o Grupo](https://www.linkedin.com/groups/1234567/)
